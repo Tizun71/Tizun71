@@ -1,4 +1,5 @@
-## Hi there 👋
+## 
+<h1>Hi there 👋</h1>
 
 I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Century. 🎮
 
