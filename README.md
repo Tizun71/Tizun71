@@ -27,6 +27,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 - Integrating AI models to web applications
 
+### 🏆Accomplishments: A Collection of My Projects
+
 ### 📫 How to reach me
 
 <div display="flex">
