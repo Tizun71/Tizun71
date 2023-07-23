@@ -39,4 +39,4 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 
 I'm definitely not a cat person.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71)](https://git.io/streak-stats)
