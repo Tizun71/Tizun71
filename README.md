@@ -39,8 +39,5 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 
 I'm definitely not a cat person.
 
-<div display="flex">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71)](https://git.io/streak-stats)
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71)](https://git.io/streak-stats)
