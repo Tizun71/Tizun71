@@ -41,3 +41,4 @@ I'm definitely not a cat person.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
