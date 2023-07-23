@@ -29,7 +29,6 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 ### 🏆 These things I made
 
 ### 📫 How to reach me
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <div display="flex">
   <a href="https://www.facebook.com/Tizundz/">
     <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -39,3 +38,5 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 ### ⚡ Fun fact
 
 I'm definitely not a cat person.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
