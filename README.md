@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Century. 🎮
 
 **I love working with**
 
