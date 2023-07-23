@@ -5,7 +5,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 **I love working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=%2361DAFB" alt="Unity"/>
+  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=ffffff" alt="Unity"/>
 </div>
 
 ### 🔭 I’m working on
