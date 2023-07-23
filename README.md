@@ -26,7 +26,7 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 
 - Integrating AI models to web applications
 
-### 🏆Accomplishments: A Collection of My Projects
+### 🏆 These things I made
 
 ### 📫 How to reach me
 
