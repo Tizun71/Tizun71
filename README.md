@@ -12,7 +12,7 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
+- HUSC - Hue University of SCiene.
 - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 ### 🌱 I’m learning
