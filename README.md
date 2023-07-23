@@ -1,5 +1,5 @@
 
-<h1 text-align: center>Hi there 👋</h1>
+<h1 text-align: center;>Hi there 👋</h1>
 
 I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Century. 🎮
 
