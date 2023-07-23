@@ -32,7 +32,7 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/CodeWithBernard">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
