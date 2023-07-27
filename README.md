@@ -23,7 +23,7 @@ I'm a gameholic and I'm chasing the Dream: Creating the Greatest Game of the Cen
 
 ### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
+- Integrating AI models to game
 
 ### 🏆 These things I made
 
