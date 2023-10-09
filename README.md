@@ -13,10 +13,10 @@ I'm a gameholic and I'm chasing the Dream: Turning all imagination into games. �
 
 ### 🔭 I’m working on
 
-- HUSC - Hue University of Sciene.
+
 
 ### 🌱 I’m learning
-
+- HUSC - Hue University of Sciene.
 <div display="flex">
   <img src="https://img.shields.io/badge/unreal%20engine-2F3134?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Hyperledger"/>
 </div>
