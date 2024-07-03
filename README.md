@@ -11,5 +11,7 @@ I'm a gameholic and I love to make softwares. 🎮
   <img src="https://img.shields.io/badge/c%20sharp-953dac.svg?style=for-the-badge&logo=csharp&logoColor=ffffff" alt="C#"/>
 </div>
 
+</br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tizun71&show_icons=true&theme=dark&card_width=400px)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71&theme=dark&card_width=400px)](https://git.io/streak-stats)
