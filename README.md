@@ -1,7 +1,7 @@
 
 <h1 text-align: center;>Hi there 👋</h1>
 
-I'm a gameholic and I'm chasing the Dream: Turning all imagination into games. 🎮
+I'm a gameholic and I love to make softwares. 🎮
 
 **I love working with**
 
