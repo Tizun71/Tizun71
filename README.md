@@ -13,7 +13,7 @@ I'm a gameholic and I love to make softwares. 🎮
 
 </br>
 
-<h2>My stats</h2>
+<h2> 🔥 My stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71&theme=dark&card_width=400px)](https://git.io/streak-stats)
 </br>
