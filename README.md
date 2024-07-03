@@ -11,32 +11,5 @@ I'm a gameholic and I love to make softwares. 🎮
   <img src="https://img.shields.io/badge/c%20sharp-953dac.svg?style=for-the-badge&logo=csharp&logoColor=ffffff" alt="C#"/>
 </div>
 
-### 🔭 I’m working on
-
-
-
-### 🌱 I’m learning
-- HUSC - Hue University of Sciene.
-<div display="flex">
-  <img src="https://img.shields.io/badge/unreal%20engine-2F3134?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Hyperledger"/>
-</div>
-
-### 🤔 I’m looking for help with
-
-- Integrating AI models to game
-
-### 🏆 These things I made
-
-### 📫 How to reach me
-<div display="flex">
-  <a href="https://www.facebook.com/Tizundz/">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</div>
-
-### ⚡ Fun fact
-
-I'm definitely a hamster instead of a cat person.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tizun71&show_icons=true&theme=dark&card_width=400px)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71&theme=dark&card_width=400px)](https://git.io/streak-stats)
