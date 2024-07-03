@@ -15,3 +15,4 @@ I'm a gameholic and I love to make softwares. 🎮
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tizun71&show_icons=true&theme=dark&card_width=400px)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71&theme=dark&card_width=400px)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
