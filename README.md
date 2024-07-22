@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=ffffff" alt="Unity"/>
   <img src="https://img.shields.io/badge/C++-659ad2.svg?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt="Cpp"/>
   <img src="https://img.shields.io/badge/c%20sharp-953dac.svg?style=for-the-badge&logo=csharp&logoColor=ffffff" alt="C#"/>
-  <img src="https://img.shields.io/badge/c%20sharp-953dac.svg?style=for-the-badge&logo=java&logoColor=ffffff" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </div>
 
 </br>
