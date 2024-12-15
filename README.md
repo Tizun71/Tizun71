@@ -11,8 +11,4 @@
 
 </br>
 
-<h2> 🔥 My stats</h2>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tizun71&theme=dark&card_width=400px)](https://git.io/streak-stats)
-</br> </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tizun71&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
