@@ -1,59 +1,57 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/qJm1HTG/ethereum-banner.gif" alt="Ethereum Banner" width="600"/>
-</p>
-
-<h1 align="center">Hi there 👋</h1>
-
-<p align="center">
-  <b>🚀 Blockchain Developer | Smart Contract Engineer | EVM Specialist 🔥</b>
-</p>
+<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h3 align="center">🚀 Blockchain Developer | Smart Contract Engineer | EVM Specialist</h3>
 
 ---
-
-### ⚡ Tech Stack
-
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Hardhat-F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
-  <img src="https://img.shields.io/badge/Foundry-000000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Ethers.js-29349c.svg?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js"/>
-</div>
-
----
-
-### 🌐 EVM Ecosystem I’ve Worked On
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polkadot-E6007A.svg?style=for-the-badge&logo=polkadot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Berachain-18181B.svg?style=for-the-badge&logo=berachain&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Hyperliquid-0D1117.svg?style=for-the-badge&logo=lightning&logoColor=blue"/>
-</div>
-
----
-
-### 🔥 What I do
-- 📝 Smart Contract Development (DeFi, NFT, DAO)  
-- 🔒 Blockchain Security & Auditing  
-- ⚡ Researching L2 Scaling & ZK Proofs  
-- 🌍 Multi-chain dApp Development  
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
+  <img align="right" src="https://i.gifer.com/origin/8c/8cfb2c9684622ed7c6c1b7a881920927_w200.gif" width="300" alt="coding" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tizun71&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="left">
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tizun71&show_icons=true&theme=radical)
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Multi-chain dApps & DeFi protocols**
+- 🌱 Learning **ZK Proofs, L2 Scaling, Polkadot & Cross-chain Bridges**
+- 💬 Ask me about **Solidity, Hardhat, Foundry, Ethers.js, Web3.js**
+- 📫 Reach me at: [tiendungit0701@gmail.com](mailto:tiendungit0701@gmail.com)
+- ⚡ Fun fact: `My code runs perfectly, but only after extensive communication with the rubber duck`
+
+  </div>
 </div>
 
 ---
 
+### 🧠 Learning & Growth
+
+- 🛠️ Building **secure, gas-efficient smart contracts**
+- 🌐 Exploring **cross-chain bridges & L2 scalability**
+- 🤖 Leveraging **AI tools** for faster dApp development
+- 🔒 Learning **audit & blockchain security best practices**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <i>"Building the future of Web3, one block at a time ⛓️"</i>
+  <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,supabase,tailwind,javascript,typescript,git,docker,vscode,nodejs,nestjs,postgresql,aws" />
 </p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Tizun71&theme=react" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tizun71&theme=react-dark" alt="Activity Graph" width="95%" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tizun71&theme=algolia&row=1&margin-w=15" />
+</p>
+
+---
+
+> “Smart contracts are like spells: precise logic, zero mistakes.”  
+> — *Ethan Dev*
