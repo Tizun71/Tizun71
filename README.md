@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">🚀 Blockchain Developer | Smart Contract Engineer | EVM Specialist</h3>
+<h1 align="center">Hi, I'm Ethan</h1>
+<h3 align="center">Blockchain Developer | Smart Contract Engineer | EVM Specialist</h3>
 
 ---
 
@@ -8,29 +8,29 @@
   
   <div align="left">
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 Currently working on **Multi-chain dApps & DeFi protocols**
-- 🌱 Learning **ZK Proofs, L2 Scaling, Polkadot & Cross-chain Bridges**
-- 💬 Ask me about **Solidity, Hardhat, Foundry, Ethers.js, Web3.js**
-- 📫 Reach me at: [tiendungit0701@gmail.com](mailto:tiendungit0701@gmail.com)
-- ⚡ Fun fact: `My code runs perfectly, but only after extensive communication with the rubber duck`
+- Currently working on **Multi-chain dApps & DeFi protocols**
+- Learning **ZK Proofs, L2 Scaling, Polkadot & Cross-chain Bridges**
+- Ask me about **Solidity, Hardhat, Foundry, Ethers.js, Web3.js**
+- Reach me at: [tiendungit0701@gmail.com](mailto:tiendungit0701@gmail.com)
+- Fun fact: `My code runs perfectly, but only after extensive communication with the rubber duck`
 
   </div>
 </div>
 
 ---
 
-### 🧠 Learning & Growth
+### Learning & Growth
 
-- 🛠️ Building **secure, gas-efficient smart contracts**
-- 🌐 Exploring **cross-chain bridges & L2 scalability**
-- 🤖 Leveraging **AI tools** for faster dApp development
-- 🔒 Learning **audit & blockchain security best practices**
+- Building **secure, gas-efficient smart contracts**
+- Exploring **cross-chain bridges & L2 scalability**
+- Leveraging **AI tools** for faster dApp development
+- Learning **audit & blockchain security best practices**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,supabase,tailwind,javascript,typescript,git,docker,vscode,nodejs,nestjs,postgresql,aws" />
@@ -38,14 +38,13 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Tizun71&theme=react" alt="GitHub Streak" width="48%" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tizun71&theme=react-dark" alt="Activity Graph" width="95%" />
 </div>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tizun71&theme=algolia&row=1&margin-w=15" />
