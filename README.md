@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Ethan</h1>
 <h3 align="center">Blockchain Developer | Smart Contract Engineer | EVM Specialist</h3>
-
----
-
-<div align="center">
-  <img align="right" src="https://i.gifer.com/origin/8c/8cfb2c9684622ed7c6c1b7a881920927_w200.gif" width="300" alt="coding" />
-  
-  <div align="left">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" alt="coding" />
 
 ### About Me
 
@@ -19,7 +13,7 @@
   </div>
 </div>
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" alt="coding" />
 
 ### Learning & Growth
 
@@ -28,7 +22,7 @@
 - Leveraging **AI tools** for faster dApp development
 - Learning **audit & blockchain security best practices**
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" alt="coding" />
 
 ### Tech Stack & Tools
 
@@ -36,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,supabase,tailwind,javascript,typescript,git,docker,vscode,nodejs,nestjs,postgresql,aws" />
 </p>
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" alt="coding" />
 
 ### GitHub Stats & Activity
 
