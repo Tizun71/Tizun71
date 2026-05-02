@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋. I'm Ethan, and this is a very professional profile</h1>
+<h1 align="center">Hi there 👋. I'm Ethan, I build things that (mostly) don't crash 🚀</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,supabase,tailwind,javascript,typescript,git,docker,vscode,nodejs,nestjs,postgresql,aws" />
