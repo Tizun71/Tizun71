@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://tizund3v.netlify.app/"><img src="img/hero-banner.png" width="100%"></a>
+<a href="https://tizund3v.netlify.app/"><img src="img/hero-banner.jpg" width="100%"></a>
 
 <!-- uncomment to change banner
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Tizun&fontSize=90&fontColor=FCFFE7" />
@@ -37,7 +37,6 @@ I build things, break things, and learn why they broke.</p>
 
 <img src="img/more_things.png">
 
-<!-- TODO: replace YOUR_EMAIL with a real email -->
 <p align="center"><a href="https://github.com/Tizun71"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://www.linkedin.com/in/tizund3v"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="https://x.com/tizund3v"><img alt="X" src="https://img.shields.io/badge/%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;<a href="https://t.me/tizund3v"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;<a href="https://discord.com/users/837456284361031730"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;<a href="mailto:tiendungit0701@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-388286?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 </div>
 
